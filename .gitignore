@@ -1,0 +1,18 @@
+# Ignore Python virtual environments
+venv/
+
+# Ignore environment variables
+.env
+
+# Ignore SQLite database file
+client.db
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore chat history file
+chat_history.json
+
+# Ignore logs or temp files
+*.log
